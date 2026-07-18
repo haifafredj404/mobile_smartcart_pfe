@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "chariot-intelligent",
+    "slug": "chariot-intelligent",
+    "version": "1.0.0",
+    "scheme": "chariot",
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-camera"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
